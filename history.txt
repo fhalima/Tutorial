@@ -1,0 +1,60 @@
+    1  -a
+    2  ls -a
+    3  pwd
+    4  ls
+    5  clr
+    6  cls
+    7  clear
+    8  git config --global user.name ghazaloran
+    9  git config --global user.email ghazaloran2@gmail.com
+   10  mkdir "Projets web"/01_tutorial -p
+   11  ls
+   12  cd Projet\ web/
+   13  cd Projets\ web/
+   14  ls
+   15  cd 01_tutorial
+   16  clear
+   17  touch .1 .2 .3
+   18  ls
+   19  ls -a
+   20  ls --all
+   21  ls -l
+   22  mv Projets\ web/ _GIT/"Projets Web"/
+   23  cd ..
+   24  cd ..
+   25  cd ..
+   26  cd ..
+   27  cd .. 
+   28  ls
+   29  cd
+   30  ls
+   31  cd ../
+   32  cd /
+   33  ls
+   34  cd
+   35  cd documents
+   36  mkdir _GIT
+   37  mv Projets\ web _GIT/"Projets web"
+   38  ls
+   39  cd
+   40  mv Projets\ web _GIT/"Projets web"
+   41  ls
+   42  pwd
+   43  mv Projets\ web documents/_GIT/"Projets web"
+   44  ls
+   45  cd documents/_GIT/"Projets web"
+   46  cd 01_tutorial
+   47  ls -la
+   48  clear
+   49  cat date.txt
+   50  cat date
+   51  date>>date.txt
+   52  date.txt
+   53  cate date.txt
+   54  cat date.txt
+   55  "je suis contente">>date.txt
+   56  cat "je suis contente">>date.txt
+   57  echo "je suis contente">>date.txt
+   58  cat date.txt
+   59  history
+   60  history>history.txt
